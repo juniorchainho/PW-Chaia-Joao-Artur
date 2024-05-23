@@ -1,0 +1,5 @@
+é necessário ter uma conexão com a internet para 
+a busca das funções organizações “slides” no website,
+ assim garantindo uma boa responsividade.
+
+Isso porque usei importações de estilos externos CDN
